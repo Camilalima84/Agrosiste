@@ -7,9 +7,6 @@ use agrosistec;
 #drop database agrosistec;
 
 create table Usuario(
-	ID int not null auto_increment,
-    Nome varchar(30) not null,
-    Senha varchar(30) not null,
     primary key(ID)
 )default charset utf8;
 

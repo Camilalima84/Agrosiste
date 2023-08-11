@@ -1,0 +1,5 @@
+const [valor, setValor] = useState();
+const handleCharge = (event) => {
+  setValor(event.target.value)
+  console.log(setValor)
+}

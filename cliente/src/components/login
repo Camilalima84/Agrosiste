@@ -1,0 +1,8 @@
+function clickLoginButton() {
+  var loginButton = document.getElementById("loginButton");
+  if (loginButton) {
+    loginButton.click();
+  } else {
+    console.log("O elemento do botão de login não foi encontrado.");
+  }
+}
