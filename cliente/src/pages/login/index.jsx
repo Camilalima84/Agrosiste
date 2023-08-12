@@ -26,7 +26,7 @@ export const Login = () => {
           <Button className="button-login" bgColor="#47C187" color="#fff">
             ENTRAR
           </Button>
-          <Button className="button-cadastro" bgColor="#2973A7" color="#fff">
+          <Button className="button-cadastro" bgColor="#0004ff" color="#fff">
             CADASTRAR
           </Button>
         </ButtonArea>
