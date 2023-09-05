@@ -1,2 +1,2 @@
-# Agrosiste
-Sistema para gerenciamento ded animais  em fazendas  
+# Agrosistes
+Sistema para gerenciamento de animais  em fazendas  
